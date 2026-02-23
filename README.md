@@ -31,4 +31,4 @@ Then this tool is what you need.
 
 ## License
 
-MIT License
+MIT No-Attribution License
